@@ -66,6 +66,7 @@ body {
 	overflow-y: auto;
 	height: calc(100% - 88px); /* Minus the navBar and the footer. */
 	background-color: rgb(47, 88, 46);
+	color: white;
 }
 
 footer {
