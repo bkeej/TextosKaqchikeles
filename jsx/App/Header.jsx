@@ -28,6 +28,12 @@ export function Header() {
           <NavLink to="/search">
             <TranslatableText dictionary={navBarSearchText} />
           </NavLink>
+{/*          <NavLink to="/about">
+            <TranslatableText dictionary={navBarAboutText} />
+          </NavLink>
+          <NavLink to="/glossary">
+            <TranslatableText dictionary={navBarGlossaryText} />
+          </NavLink>*/}
           <NavLink to="/index">
             <TranslatableText dictionary={navBarIndexText} />
           </NavLink>
@@ -46,12 +52,12 @@ export function Header() {
         <Route path="/search">
           <Search />
         </Route>
-        <Route exact path="/about">
+{/*        <Route exact path="/about">
           <AboutPage />
         </Route>
         <Route exact path="/glossary">
           <GlossaryPage />
-        </Route>
+        </Route>*/}
       </div>
     </Router>
   );
