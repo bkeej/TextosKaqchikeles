@@ -27,6 +27,11 @@ const landingPageJSX = {
     </div>,
   [FRANCAIS]:
     <div>
+    <p>Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href = https://es.wikipedia.org/wiki/Idioma_cachiquel>Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.</p>
+    <p>Ri molaj tzijonem re, k'o rugrabación audio, chuqa kiyakb'al <a href = https://archive.mpi.nl/tla/elan>ELAN</a>, chuqa xb'an rik'in LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
+    <p>Wi nawajo' nanab'ej chik chi rij ri taq tzijonem re', tab'ana' utzil katz'ib'an chre Ryan Bennett (rbennett@ucsc.edu).</p>
+    </div>
+    <div>
       <p>Bienvenue ! Ce site Web présente une collection de textes en <a href = https://en.wikipedia.org/wiki/Kaqchikel_language>Kaqchikel</a>, une langue maya de la branche k'ichean parlée dans les hautes terres du Guatemala.</p>
       <p>Ces textes consistent en des enregistrements audio avec des annotations <a href = https://archive.mpi.nl/tla/elan>ELAN</a> associées, et ont été produits à l'aide de LingView (<a href = https:// github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
       <p>Pour plus d'informations, veuillez contacter Ryan Bennett (rbennett@ucsc.edu)<p/>
