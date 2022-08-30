@@ -29,7 +29,7 @@ jobs:
         npm run bundle
       env:
         CI: true
-        REMOTE_MEDIA_PATH: ${{ secrets.REMOTE_MEDIA_PATH }}
+        REMOTE_MEDIA_PATH: https://kaqchikeltexts.s3.amazonaws.com/
 
     - name: Deploy online version to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
@@ -63,7 +63,7 @@ jobs:
         mv bundle bundle-offline/LingView
       env:
         CI: true
-        REMOTE_MEDIA_PATH: ${{ secrets.REMOTE_MEDIA_PATH }}
+        REMOTE_MEDIA_PATH: https://uspantekotexts.s3.amazonaws.com/
 
     - name: Save offline-compatible local version as an artifact
       uses: actions/upload-artifact@v2
