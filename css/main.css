@@ -45,7 +45,7 @@ body {
 	margin-right: 0;
 }
 #navLinks a:hover {
-	background-color: rgb(119,156,200);
+	background-color: rgb(47, 88, 46);
 }
 #navLinks a.active {
 	text-decoration: underline;
