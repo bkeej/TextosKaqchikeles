@@ -1,22 +1,18 @@
 import React from 'react';
-import { ENGLISH, ESPANOL, FRANCAIS } from './locale/LocaleConstants.jsx';
+import { ENGLISH, ESPANOL } from './locale/LocaleConstants.jsx';
 import { TranslatableText } from './locale/TranslatableText.jsx'
 
 const landingPageJSX = {
+  TEXTO EN KAQCHIKEL
   [ENGLISH]:
     <div>
-      <p>Welcome! This website is powered by LingView. Click <a href='#/index'>"Index of Texts"</a> to see some example texts.</p>
-      <p>To customize this welcome text, edit the jsx/App/LandingPage.jsx file, then run webpack for your changes to take effect. </p>
+      <p>Welcome! This website presents a collection of texts in <a href = https://en.wikipedia.org/wiki/Kaqchikel_language>Kaqchikel</a>, a K'ichean-branch Mayan language spoken in the Guatemalan highlands.</p>
+      <p>These texts consist of audio recordings with associated <a href = https://archive.mpi.nl/tla/elan>ELAN</a> annotations, and were produced using LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
     </div>,
   [ESPANOL]:
     <div>
-      <p>¡Bienvenido! Este sitio web funciona con LingView. Haga clic <a href='#/index'>"Índice de textos"</a> para ver algunos textos de ejemplo. </p>
-      <p>Para personalizar este texto de bienvenida, edite el archivo 'jsx/App/LandingPage.jsx' y luego ejecute el paquete web para que los cambios surtan efecto. </p>
-    </div>,
-  [FRANCAIS]:
-    <div>
-      <p>Bienvenue! Ce site Web est alimenté par LingView. Cliquez <a href='#/index'>"Index des Textes"</a> pour voir quelques exemples de textes. </p>
-      <p>Pour personnaliser ce texte de bienvenue, modifiez le fichier 'jsx/App/LandingPage.jsx', puis exécutez webpack pour que vos modifications prennent effet. </p>
+      <p>¡Bienvenidos! Este sitio comparte una colección de textos en <a href = https://es.wikipedia.org/wiki/Idioma_cachiquel>kaqchikel</a>, un idioma maya de la rama k'iche' que se habla en las tierras altas de Guatemala./p>
+      <p>Estos textos constan de grabaciones de audio con anotaciones asociadas en formato <a href = https://archive.mpi.nl/tla/elan>ELAN</a>, y fueron producidos con LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
     </div>,
 };
 
