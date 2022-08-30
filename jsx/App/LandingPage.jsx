@@ -1,40 +1,22 @@
 import React from 'react';
-import { ENGLISH, ESPANOL , FRANCAIS } from './locale/LocaleConstants.jsx';
+import { ENGLISH, ESPANOL, FRANCAIS } from './locale/LocaleConstants.jsx';
 import { TranslatableText } from './locale/TranslatableText.jsx'
 
 const landingPageJSX = {
   [ENGLISH]:
     <div>
-    <p>Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href = https://es.wikipedia.org/wiki/Idioma_cachiquel>Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.</p>
-    <p>Ri molaj tzijonem re, k'o rugrabación audio, chuqa kiyakb'al <a href = https://archive.mpi.nl/tla/elan>ELAN</a>, chuqa xb'an rik'in LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
-    <p>Wi nawajo' nanab'ej chik chi rij ri taq tzijonem re', tab'ana' utzil katz'ib'an chre Ryan Bennett (rbennett@ucsc.edu).</p>
-    </div>
-    <div>
-      <p>Welcome! This website presents a collection of texts in <a href = https://en.wikipedia.org/wiki/Kaqchikel_language>Kaqchikel</a>, a K'ichean-branch Mayan language spoken in the Guatemalan highlands.</p>
-      <p>These texts consist of audio recordings with associated <a href = https://archive.mpi.nl/tla/elan>ELAN</a> annotations, and were produced using LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
-      <p>For additional information, please contact Ryan Bennett (rbennett@ucsc.edu)<p/>
+      <p>Welcome! This is a collection of 54 Uspanteko texts collected over the years 2019-2021 as part of a National Science Foundation funded grant (BCS/DEL-1551043/1551666), and with the generous support of the Comunidad Lingüística Uspanteka. The team that produced this corpus consisted of Ryan Bennett, Megan Harvey, Robert Henderson, and Tomás Méndez López. We hope that these texts will aide any and all who love the Uspanteko langauge.</p>
+      <p>Un recordatorio para aquellos que participaron en este proyecto compartiendo el idioma y sus historias. Si desea que hagamos algún cambio en su grabación o transcripción, incluida la eliminación del sitio, comuníquese con Robert Henderson (University of Arizona) o Ryan Bennett (University of California, Santa Cruz).</p>
     </div>,
   [ESPANOL]:
     <div>
-    <p>Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href = https://es.wikipedia.org/wiki/Idioma_cachiquel>Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.</p>
-    <p>Ri molaj tzijonem re, k'o rugrabación audio, chuqa kiyakb'al <a href = https://archive.mpi.nl/tla/elan>ELAN</a>, chuqa xb'an rik'in LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
-    <p>Wi nawajo' nanab'ej chik chi rij ri taq tzijonem re', tab'ana' utzil katz'ib'an chre Ryan Bennett (rbennett@ucsc.edu).</p>
-    </div>
-    <div>
-      <p>¡Bienvenidos! Este sitio comparte una colección de textos en <a href = https://es.wikipedia.org/wiki/Idioma_cachiquel>kaqchikel</a>, un idioma maya de la rama k'iche' que se habla en las tierras altas de Guatemala./p>
-      <p>Estos textos constan de grabaciones de audio con anotaciones asociadas en formato <a href = https://archive.mpi.nl/tla/elan>ELAN</a>, y fueron producidos con LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
-      <p>Un recordatorio para aquellos que participaron en este proyecto compartiendo el idioma y sus historias: si desea que hagamos algún cambio en su grabación o transcripción, incluida la eliminación del sitio, comuníquese con Ryan Bennett (rbennett@ucsc.edu).
+      <p>¡Bienvenidos! Esta es una colección de 54 textos del idioma uspanteko recopilados durante los años 2019-2021 como parte de una subvención financiada por la Fundación Nacional de Ciencias (BCS/DEL-1551043/1551666), y con el generoso apoyo de la Comunidad Lingüística Uspanteka. El equipo que produjo este corpus estuvo integrado por Ryan Bennett, Megan Harvey, Robert Henderson y Tomás Méndez López. Esperamos que estos textos sean de ayuda para todos aquellos que aman el idioma uspanteko.</p>
+      <p>Un recordatorio para aquellos que participaron en este proyecto compartiendo el idioma y sus historias. Si desea que hagamos algún cambio en su grabación o transcripción, incluida la eliminación del sitio, comuníquese con Robert Henderson (University of Arizona) o Ryan Bennett (University of California, Santa Cruz).</p>
     </div>,
   [FRANCAIS]:
     <div>
-    <p>Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href = https://es.wikipedia.org/wiki/Idioma_cachiquel>Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.</p>
-    <p>Ri molaj tzijonem re, k'o rugrabación audio, chuqa kiyakb'al <a href = https://archive.mpi.nl/tla/elan>ELAN</a>, chuqa xb'an rik'in LingView (<a href = https://github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
-    <p>Wi nawajo' nanab'ej chik chi rij ri taq tzijonem re', tab'ana' utzil katz'ib'an chre Ryan Bennett (rbennett@ucsc.edu).</p>
-    </div>
-    <div>
-      <p>Bienvenue ! Ce site Web présente une collection de textes en <a href = https://en.wikipedia.org/wiki/Kaqchikel_language>Kaqchikel</a>, une langue maya de la branche k'ichean parlée dans les hautes terres du Guatemala.</p>
-      <p>Ces textes consistent en des enregistrements audio avec des annotations <a href = https://archive.mpi.nl/tla/elan>ELAN</a> associées, et ont été produits à l'aide de LingView (<a href = https:// github.com/BrownCLPS/LingView>https://github.com/BrownCLPS/LingView</a>).</p>
-      <p>Pour plus d'informations, veuillez contacter Ryan Bennett (rbennett@ucsc.edu)<p/>
+      <p>Accueillir! Il s'agit d'une collection de 54 textes Uspanteko collectés au cours des années 2019-2021 dans le cadre d'une subvention financée par la National Science Foundation (BCS/DEL-1551043/1551666), et avec le généreux soutien de la Comunidad Lingüística Uspanteka. L'équipe qui a produit ce corpus était composée de Ryan Bennett, Megan Harvey, Robert Henderson et Tomás Méndez López. Nous espérons que ces textes aideront tous ceux qui aiment la langue Uspanteko.</p>
+      <p>Un recordatorio para aquellos que participaron en este proyecto compartiendo el idioma y sus historias. Si desea que hagamos algún cambio en su grabación o transcripción, incluida la eliminación del sitio, comuníquese con Robert Henderson (University of Arizona) o Ryan Bennett (University of California, Santa Cruz).</p>
     </div>,
 };
 
