@@ -15,7 +15,7 @@ export const DEFAULT_LOCALE = ENGLISH;
 // NavBar text (header).
 export const navBarTitleText = {
   [ENGLISH]: "Collection of Kaqchikel texts",
-  [ESPANOL]: "Colección de textos en kaqchikel",
+  [ESPANOL]: "Colecci&oacute;n de textos en kaqchikel",
   [FRANCAIS]: "Collection de textes Kaqchikel",
 };
 
