@@ -17,9 +17,7 @@ const landingPageJSX = {
  Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href="https://es.wikipedia.org/wiki/Idioma_cachiquel">Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.
  <p>Wi nawajo' nanab'ej chik chi rij ri taq tzijonem re', tab'ana' utzil katz'ib'an chre Ryan Bennett (rbennett@ucsc.edu).</p>
   </br></br>
-Bienvenidos! Este sitio comparte una colección de textos en <a href="https://es.wikipedia.org/wiki/Idioma_cachiquel">kaqchikel</a>, un idioma maya de la rama k'iche' que se habla en las tierras altas de Guatemala.
-<p>Estos textos constan de grabaciones de audio con anotaciones asociadas en formato <a href="https://archive.mpi.nl/tla/elan">ELAN</a>, y fueron producidos con LingView (<a href="https://github.com/BrownCLPS/LingView">https://github.com/BrownCLPS/LingView</a>).</p>
-<p>Un recordatorio para aquellos que participaron en este proyecto compartiendo su idioma y sus historias: si desea que hagamos algún cambio en su grabación o transcripción, incluso que borramos esos materiales de este sitio, comuníquese con Ryan Bennett (rbennett@ucsc.edu).</p>
+&iexcl;Bienvenidos! Este sitio comparte una colección de textos en <a href="https://es.wikipedia.org/wiki/Idioma_cachiquel">kaqchikel</a>, un idioma maya de la rama k'iche' que se habla en las tierras altas de Guatemala.
  </div>,
  [FRANCAIS]:
  <div>
