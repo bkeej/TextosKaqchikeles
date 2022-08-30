@@ -5,15 +5,15 @@ import { TranslatableText } from './locale/TranslatableText.jsx'
 const landingPageJSX = {
 [ENGLISH]:
  <div>
- TEST
+ Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href="https://es.wikipedia.org/wiki/Idioma_cachiquel">Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.
  </div>,
  [ESPANOL]:
  <div>
- TEST
+ Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href="https://es.wikipedia.org/wiki/Idioma_cachiquel">Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.
  </div>,
  [FRANCAIS]:
  <div>
- TEST
+ Ütz ipetik! Ri ruxaq re' nuk'utu' jun molaj tzijonem pa <a href="https://es.wikipedia.org/wiki/Idioma_cachiquel">Kaqchikel</a> ch'ab'äl, jun ch'ab'äl mayab' ntzijoxïk pa Iximulew.
  </div>,
 };
 
