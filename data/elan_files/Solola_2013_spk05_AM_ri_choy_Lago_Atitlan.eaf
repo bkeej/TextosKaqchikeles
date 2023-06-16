@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-08-31T08:40:13-08:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-06-13T08:59:49-08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/Solola_2013_spk05_AM_ri_choy_Lago_Atitlan.mp3"
-            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./media_files/Solola_2013_spk05_AM_ri_choy_Lago_Atitlan.mp3"/>
+            MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/solola_2013_spk05_am_ri_choy_lago_atitlan.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/solola_2013_spk05_am_ri_choy_lago_atitlan.mp3"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e0b34d9-6639-48db-a548-ef7f2ed6a064</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1134</PROPERTY>
     </HEADER>

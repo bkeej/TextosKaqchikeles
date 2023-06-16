@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-08-31T08:42:19-08:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-06-13T09:00:45-08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/Solola_2013_spk06_RP_tzuy_tzimay_calabazas.mp3"
-            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./media_files/Solola_2013_spk06_RP_tzuy_tzimay_calabazas.mp3"/>
+            MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/solola_2013_spk06_rp_tzuy_tzimay_calabazas.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/solola_2013_spk06_rp_tzuy_tzimay_calabazas.mp3"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f13b5b73-a699-43b0-b444-589dc9016697</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">735</PROPERTY>
     </HEADER>

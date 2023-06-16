@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-08-31T08:35:47-08:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-06-13T08:57:54-08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/Comalapa_2013_spk01_NM_tiyo_coyote_Juan_Senisa.mp3"
-            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./media_files/Comalapa_2013_spk01_NM_tiyo_coyote_Juan_Senisa.mp3"/>
+            MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/comalapa_2013_spk01_nm_tiyo_coyote_juan_senisa.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/comalapa_2013_spk01_nm_tiyo_coyote_juan_senisa.mp3"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa307dfe-413e-4675-9cdf-f8feb5610eac</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2433</PROPERTY>
     </HEADER>
