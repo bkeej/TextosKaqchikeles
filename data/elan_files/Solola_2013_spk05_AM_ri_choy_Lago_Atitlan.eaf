@@ -6,7 +6,7 @@
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/solola_2013_spk05_am_ri_choy_lago_atitlan.mp3"
             MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/solola_2013_spk05_am_ri_choy_lago_atitlan.mp3"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e0b34d9-6639-48db-a548-ef7f2ed6a064</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9e0b34d9-6639-48db-a548-ef7f2ed6a064</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1134</PROPERTY>
     </HEADER>
     <TIME_ORDER>
