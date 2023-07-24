@@ -6,7 +6,7 @@
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/comalapa_2013_spk01_nm_tiyo_coyote_juan_senisa.mp3"
             MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/comalapa_2013_spk01_nm_tiyo_coyote_juan_senisa.mp3"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa307dfe-413e-4675-9cdf-f8feb5610eac</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa407dfe-413e-4675-9cdf-f8feb5610eac</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2433</PROPERTY>
     </HEADER>
     <TIME_ORDER>
