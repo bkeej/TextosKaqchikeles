@@ -6,7 +6,7 @@
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/solola_2013_spk06_rp_tzuy_tzimay_calabazas.mp3"
             MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/solola_2013_spk06_rp_tzuy_tzimay_calabazas.mp3"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f13b5b73-a699-43b0-b444-589dc9016697</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f43b5b73-a699-43b0-b444-589dc9016697</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">735</PROPERTY>
     </HEADER>
     <TIME_ORDER>
