@@ -6,7 +6,7 @@
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/solola_2013_spk07_lb_yuq7_karne7l_pastor.mp3"
             MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/solola_2013_spk07_lb_yuq7_karne7l_pastor.mp3"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:eefaeb35-768d-4503-b323-dd73837fcafa</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:eefaeb15-768d-4503-b323-dd73837fcafa</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1138</PROPERTY>
     </HEADER>
     <TIME_ORDER>
