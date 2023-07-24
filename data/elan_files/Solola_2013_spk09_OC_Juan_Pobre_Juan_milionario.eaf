@@ -6,7 +6,7 @@
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///C:/Users/Tiamat/Dropbox/Research/Mayan/Kaqchikel/Kaq_corpus/ELAN_transcriptions/media_files/solola_2013_spk09_oc_juan_pobre_juan_milionario.mp3"
             MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/solola_2013_spk09_oc_juan_pobre_juan_milionario.mp3"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9383fa51-a208-43e3-8229-08510340c061</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1383fa51-a208-43e3-8229-08510340c061</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1411</PROPERTY>
     </HEADER>
     <TIME_ORDER>
