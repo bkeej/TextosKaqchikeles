@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-11T19:11:22-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Polina/Documents/Maya/Book project/AudioForBook/Junchikplato_28062019.WAV"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../Polina/Documents/Maya/Book project/AudioForBook/Junchikplato_28062019.WAV"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:15f5ecc8-1a97-4536-8cbc-c5a1b64d9cc8</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">43</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="11790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="12070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="20560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="21110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="21600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="21920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="26110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="26290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="31790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="33100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="38510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="38520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="41870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="48700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="49050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="53500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="54080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="54260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="54630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="60640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="60960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="66370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="66610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="67870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="68210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="72320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="72340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="75330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="75370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="76680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="77030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="80260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="80750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="84930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="84930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="88290"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="transcription" TIER_ID="Kaqchikel">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>bueno</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>e el otro plato</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>y o jun chik qaq'utun ri chïn ri vave' toq chqa nqamöl qi'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>eh ma nojel ta mul nqatïj ri q'utun ri'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>pero ri más k'a ri'ri xb'än kän nksäx xe toq nyak ri ri, nyak qa nyak qa ri jäl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>nyak kän ri jäl chin jun juna' qavay, qavayb'al, ja ri' täq nb'an ri jun q'utun ri y k'äj nb'ïx che</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>y ri k'äj k'a ri' nuk'waj qa ri q'utun chïn aq, rq'utun wakx, rq'utun äk'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ja ri' ri nk'waj ri ri ri ri ri ri y si k'o jantäj k'a ri' k'o mod nqaqa kiy-on...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>más más ke la' kän ojer, nkiya' karne'l rkïn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ru…kami manaq chik xa xe ri äk', ri wakx y ri aq naqaqa rkïn ri q'utun ri' ch-oxi' ntzak</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>y ri' xa xe n-öx qa ri xnakät n-öx cilantro</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>y y nb'an ri ri ri ri ri ri k'äj ri ri' nq'anarsäx ri ri ixin pa xot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>toq q'än q'än rb'anon k'a ri' nelesäx, [k'a ri'] njok'  chwäch ka' k'a ri' nb'an ri</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>[ke] ri'  k'a ri' nchayüx y k'in ri'  nb'an vi ri n-öx v[?] ja ri' ri k'äj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ri n-öx vi qa achel como pul-ik nb'an che,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>pero ma rk'waj ta k'uxu' ma jun, xa xe ri ri xnakät y [ri] cilantro</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>y ri oxi' q'utun, ja ri' nb'an qa ri q'or ja ri' rb'in-an k'äj,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>y ntij chqa k'ïn ri ri sb'an pa q'anaq'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="Kaqchikel" TIER_ID="Español">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Bueno,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>E el otro plato...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Y u otra nuestra comida de aquí cuando también nos reunimos.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>eh no siempre comemos esta comida</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Pero más, hace tiempo, fue usado solo cuando es guardado el el, es guardado,  es guardado el maíz/mazorca.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Es guardado la mazorca de un año, nuestra comidad, nuestro alimento, es cuando se hacía esta comida esto y “k’äj” (harina de maíz) se le llama.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Y este “k’äj”, lleva carne de cerdo, carne de res, carne de gallina</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Eso es lo que lleva (esa comida) y si hay veces había posibilidad de hecharle … se le ha echado.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>En otro tiempo, le hechaban (carne de) oveja en ella.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>… Ahora ya no, solamente el pollo, la res y el cerdo lleva la comida esa, los tres se cocen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Y para eso solo se hecha la cebolla, se le da/hecha cilantro.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Y y se hace ese “k’äj”, se tuesta maíz en el comal.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Cuando está bien dorado, hasta entonces se saca (del fuego), es molido en la piedra de moler, entonces se hace el...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Entonces entonces es colado con eso se hace, el que es hechado… eso es el “k’äj”.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>El que se le hecha  como como “recado de tomate”, (es otra clase de comida) se le hace.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Pero no lleva achote, nada, solamente la cebolla y el cilantro.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Y las tres carnes, se hace el atole, eso es lo es llamado  “k’äj”.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Y es comido también con el tamalito en (hojas) manos de león.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="annotation"
+        PARENT_REF="Kaqchikel" TIER_ID="CS">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>CS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>CS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="PP" LINGUISTIC_TYPE_REF="annotation"
+        PARENT_REF="Kaqchikel" TIER_ID="Comentario Cultural">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>qavaybal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>nb'än</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>nb'än</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>[ke ri'](?)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>[nijun]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="transcription" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="transcription1" TIME_ALIGNABLE="true"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
